@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Боголюбов народився 8 (21) серпня 1909 року в Нижньому Новгороді[2]. Його батько, Микола Михайлович Боголюбов, був духовним письменником, професором богослов'я; мати, Боголюбова (Ламінарська) Ольга Миколаївна, — викладачем музики. Через півроку після народження Миколи сім'я переїжджає до Ніжина, де батько викладає до 1913 року. 1913—1918 — сім'я поживає у Києві. Початкові знання отримав удома. Батько повідомив перші відомості з арифметики, російської, німецької та французької мов. У шість років відвідує підготовчий клас Київської гімназії. У гімназії навчався недовго — у роки Української революції 1917—1921 років сім'я переселилася до с. Велика Круча на Полтавщині. З 1919 по 1921 роки навчався у Великокручанській семирічній школі — єдиному навчальному закладі, який він закінчив. У 1921 році сім'я переїхала до Києва. Після закінчення семирічної школи Боголюбов самостійно вивчав фізику і математику і з 14-ти років уже брав участь в семінарі кафедри математичної фізики Київського університету під керівництвом академіка Д. О. Граве. У 1924 році у п'ятнадцятирічному віці Боголюбов написав першу наукову працю, а наступного року був прийнятий безпосередньо до аспірантури АН УРСР до академіка М. М. Крилова, яку закінчив у 1929 році, отримавши у 20 років ступінь доктора математичних наук. У 1929 році Боголюбов став науковим співробітником Української академії наук, у 1934 почав викладати в Київському університеті (від 1936 року професор). У 1940 році після возз'єднання північної Буковини з Україною М. М. Боголюбова було направлено до Чернівців для організації математичних кафедр на фізико-математичному факультеті Чернівецького держуніверситету[4][5]. З 1948 року регулярно перебував і подовгу мешкав у Москві, де очолював Теоретичний відділ в Інституті хімічної фізики АН СРСР. Окрім того, від 1950 року Боголюбов працював у Математичному інституті імені В. А. Стєклова і в Московському університеті, де в 1953 заснував кафедру квантової статистики і теорії поля, якою керував до останніх днів свого життя. У 1950—1953 роках працював також у закритому інституті оборонного профілю в Арзамасі-16 (сучасний Саров, Росія). З утворенням у 1957 році в Дубні (Московська область Росії) міжнародного центру в галузі ядерної фізики, Об'єднаного інституту ядерних досліджень (ОІЯД), Боголюбов організував і став керівником лабораторії теоретичної фізики, а в 1965—1988 роках був директором ОІЯД. У 1966 році став першим директором створеного ним Інституту теоретичної фізики АН УРСР у Києві, одночасно (від 1963 до 1988) він академік-секретар Відділу математики АН СРСР. У 1983—1989 роках очолював Математичний інститут імені В. А. Стєклова у Москві.</value>
+  </data>
+</root>
